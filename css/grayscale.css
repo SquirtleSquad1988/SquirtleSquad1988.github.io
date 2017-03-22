@@ -230,6 +230,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
+  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -237,7 +238,7 @@ a:focus {
   -o-background-size: cover;
 }
 
-.projects-section {
+.contact-section {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -249,8 +250,35 @@ a:focus {
   -o-background-size: cover;
 }
 
+.projects-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .closing-section {
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+}
+
+
+
+.devicon-icon {
+  font-size: 75px;
+  margin: 20px;
+  color: white;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.devicon-icon:hover,
+.devicon-icon:focus {
+  text-decoration: none;
+  color: #42DCA3;
 }
 
 #map {
