@@ -34,12 +34,20 @@ p {
 
 .project-one {
   font-size: 10px;
+  margin-bottom: 10px;
+}
+
+.project-images {
+  max-height: 150px;
+  min-height: 150px;
+  width: 210px;
+  margin-top: 15px;
 }
 
 @media (min-width: 768px) {
   p {
     margin: 0 0 35px;
-    font-size: 20px;
+    font-size: 10px;
     line-height: 1.6;
   }
 }
@@ -266,19 +274,27 @@ a:focus {
   -o-background-size: cover;
 }
 
+.project-div {
+  text-align: center;
+}
+
 
 .maybe {
-  height: 500px;
+  height: 400px;
   width: 250px;
   float: left;
   display: block;
   left: 0px;
-  margin: 0 auto;
+  margin: 17px;
 }
 
 
 .closing-section {
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+}
+
+#projects {
+  padding-top: 200px;
 }
 
 
@@ -356,6 +372,11 @@ ul.banner-social-buttons {
 footer {
   padding: 50px 0;
 }
+
+.project-title {
+  margin-bottom: 15px;
+}
+
 footer p {
   margin: 0;
 }
