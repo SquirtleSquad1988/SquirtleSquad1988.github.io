@@ -137,7 +137,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/crater-lake2.jpg) no-repeat bottom center scroll;
+  background: url(../img/denali2.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -243,7 +243,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background: url(../img/skills-img2.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -255,7 +255,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/footer-img.jpeg) no-repeat center center scroll;
+  background: url(../img/footer-img2.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -289,9 +289,9 @@ a:focus {
 }
 
 
-.closing-section {
+/*.closing-section {
   background: url(../img/footer-img.jpeg) no-repeat center center scroll;
-}
+}*/
 
 #projects {
   padding-top: 200px;
