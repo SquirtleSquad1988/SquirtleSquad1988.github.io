@@ -42,6 +42,11 @@ p {
   min-height: 150px;
   width: 210px;
   margin-top: 15px;
+  border-top: 5px black;
+  border-left: 5px black;
+  border-right: 5px black;
+  border-bottom: 5px black;
+  border-style: solid;
 }
 
 @media (min-width: 768px) {
@@ -296,8 +301,6 @@ a:focus {
 #projects {
   padding-top: 200px;
 }
-
-
 
 .devicon-icon {
   font-size: 75px;
