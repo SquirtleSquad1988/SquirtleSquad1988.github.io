@@ -33,7 +33,7 @@ p {
 }
 
 .project-one {
-  font-size: 10px;
+  font-size: 12px;
   margin-bottom: 10px;
 }
 
@@ -291,6 +291,11 @@ a:focus {
   display: block;
   left: 0px;
   margin: 17px;
+}
+
+.thumbnail {
+  height: 395px;
+  width: 250px;
 }
 
 
